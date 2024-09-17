@@ -1,0 +1,260 @@
+{
+  "questions": [
+    {
+      "question": "How would you rate the employee's overall performance?",
+      "type": "radio",
+      "options": ["Excellent", "Good", "Average", "Below Average", "Poor"]
+    },
+    {
+      "question": "How effective is the employee's time management?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "Please describe the employee's strengths.",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's email address?",
+      "type": "email"
+    },
+    {
+      "question": "Does the employee meet their deadlines?",
+      "type": "checkboxes",
+      "options": ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+    },
+    {
+      "question": "How often does the employee take initiative?",
+      "type": "range",
+      "min": 0,
+      "max": 100
+    },
+    {
+      "question": "How satisfied are you with the employee's communication skills?",
+      "type": "radio",
+      "options": [
+        "Very Satisfied",
+        "Satisfied",
+        "Neutral",
+        "Dissatisfied",
+        "Very Dissatisfied"
+      ]
+    },
+    {
+      "question": "How would you rate the employee's problem-solving abilities?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "What improvements would you suggest for the employee?",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred contact method?",
+      "type": "text",
+      "placeholder": "Enter contact method"
+    },
+    {
+      "question": "How would you rate the employee's adherence to company policies?",
+      "type": "radio",
+      "options": ["Excellent", "Good", "Average", "Below Average", "Poor"]
+    },
+    {
+      "question": "How well does the employee adapt to new situations?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "Please provide feedback on the employee's leadership skills.",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred working style?",
+      "type": "text",
+      "placeholder": "Enter working style"
+    },
+    {
+      "question": "Does the employee exhibit a proactive approach to tasks?",
+      "type": "checkboxes",
+      "options": ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+    },
+    {
+      "question": "How well does the employee handle stress?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "What training or resources would benefit the employee?",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's job title?",
+      "type": "text",
+      "placeholder": "Enter job title"
+    },
+    {
+      "question": "How well does the employee work with team members?",
+      "type": "radio",
+      "options": ["Excellent", "Good", "Average", "Below Average", "Poor"]
+    },
+    {
+      "question": "How would you rate the employee's project management skills?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "Please describe any notable achievements by the employee.",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's phone number?",
+      "type": "text",
+      "placeholder": "Enter phone number"
+    },
+    {
+      "question": "How frequently does the employee seek feedback?",
+      "type": "checkboxes",
+      "options": ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+    },
+    {
+      "question": "How well does the employee follow through on commitments?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "What are the employee's career goals?",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred method of receiving feedback?",
+      "type": "text",
+      "placeholder": "Enter feedback method"
+    },
+    {
+      "question": "How would you rate the employee's creativity?",
+      "type": "radio",
+      "options": ["Excellent", "Good", "Average", "Below Average", "Poor"]
+    },
+    {
+      "question": "How effectively does the employee manage their workload?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "Please provide any additional comments about the employee.",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred work schedule?",
+      "type": "text",
+      "placeholder": "Enter work schedule"
+    },
+    {
+      "question": "Does the employee demonstrate strong problem-solving skills?",
+      "type": "checkboxes",
+      "options": ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+    },
+    {
+      "question": "How would you rate the employee's ability to handle multiple tasks?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "What additional skills or knowledge could benefit the employee?",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's highest level of education?",
+      "type": "text",
+      "placeholder": "Enter education level"
+    },
+    {
+      "question": "How well does the employee understand their role and responsibilities?",
+      "type": "radio",
+      "options": ["Excellent", "Good", "Average", "Below Average", "Poor"]
+    },
+    {
+      "question": "How effectively does the employee communicate with clients?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "Please describe the employee's work ethic.",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred method of working (e.g., remote, in-office)?",
+      "type": "text",
+      "placeholder": "Enter preferred method"
+    },
+    {
+      "question": "Does the employee demonstrate a strong sense of teamwork?",
+      "type": "checkboxes",
+      "options": ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+    },
+    {
+      "question": "How would you rate the employee's ability to learn new skills?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "What type of recognition or reward motivates the employee?",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's current job role?",
+      "type": "text",
+      "placeholder": "Enter job role"
+    },
+    {
+      "question": "How frequently does the employee contribute to company goals?",
+      "type": "checkboxes",
+      "options": ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+    },
+    {
+      "question": "How would you rate the employee's ability to handle difficult situations?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "What improvements could be made in the employee's work processes?",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred mode of communication?",
+      "type": "text",
+      "placeholder": "Enter mode of communication"
+    },
+    {
+      "question": "How effectively does the employee manage conflicts?",
+      "type": "radio",
+      "options": ["Excellent", "Good", "Average", "Below Average", "Poor"]
+    },
+    {
+      "question": "How would you rate the employee's attention to detail?",
+      "type": "slider",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "question": "Please provide any additional feedback on the employee's performance.",
+      "type": "textarea"
+    },
+    {
+      "question": "What is the employee's preferred work environment?",
+      "type": "text",
+      "placeholder": "Enter work environment"
+    }
+  ]
+}
